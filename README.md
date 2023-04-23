@@ -7,3 +7,7 @@ Repositorio para el proyecto de trabajo durante el semestre 01 2023 en el marco 
 
 ## Datos
 [El conjunto de datos de este proyecto](https://www.kaggle.com/competitions/prudential-life-insurance-assessment/overview/evaluation) proviene de la compañia aseguradora Prudential. El objetivo es clasificar solicitantes de seguros de vida según su nivel de riesgo en una escala de 8 valores.
+
+
+## Videos
+Segunda entrega: [En este enlace](https://youtu.be/B9fqQevW3uI)
