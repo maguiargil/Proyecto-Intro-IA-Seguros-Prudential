@@ -10,6 +10,6 @@ Repositorio para el proyecto de trabajo durante el semestre 01 2023 en el marco 
 
 
 ## Videos
-Segunda entrega: [En este enlace](https://youtu.be/B9fqQevW3uI)
+- Segunda entrega: [En este enlace](https://youtu.be/B9fqQevW3uI)
 
-***Entrega final: [En este enlace](https://youtu.be/id2mZdLI5f4)***
+- ***Entrega final: [En este enlace](https://youtu.be/id2mZdLI5f4)***
